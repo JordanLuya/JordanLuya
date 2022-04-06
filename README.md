@@ -1,3 +1,5 @@
+![implementing-artificial-intelligence-part-1-hero](https://user-images.githubusercontent.com/51296614/162080816-6a297d73-9891-4f98-8c6e-168b06f533a6.jpg)
+
 <h1 align="center">Hi 👋, I'm Jordan Luyakana</h1>
 <h3 align="center">Passionate of computer Science</h3>
 
